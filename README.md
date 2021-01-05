@@ -38,6 +38,20 @@ pip install -r requirements.txt
 
 #### Ater you inserted all credentials in the right way, make sure to run the script. For this open a command prompt in your foler and run the following commands.
 
-`python main.py`- On windows running PCs/Servers 
-`sudo python main.py` - On Linux runnin Servers 
+#### Windows
 
+```python main.py```
+
+#### Linux
+
+```sudo python main.py```
+
+#### Server/ Hosting
+
+If you want to host the bot on a 24/7 server you are hosting, please run theese Commands.
+
+`screen` - This will open the 24/7 console, wich will continue running the script, if you disconnect to your server. After you run thew command it will ask you to ascespt the EULA. To accept simply press Enter/Space.
+
+`sudo python main.py` - Run the bot.
+
+#### After you run the script you will need to enter your phone number and the code telegram will send you. After you did this you can message and start the bot you just created. Congratulations 🥳. You will find the bot like every normal user by searching it in the searchbar or clikc the link in the BotFather message.
