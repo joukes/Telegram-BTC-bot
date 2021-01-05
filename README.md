@@ -7,7 +7,9 @@ Buy me a cofee: https://www.buymeacoffee.com/lxnnard
 ## Commands
 
 /help - Get the help menu displayed with all commands.
+
 /get_btc_price - See the latest BTC Price in Euro.
+
 /set_btc_alert - Set a alert to get notified if BTC hits a defined value.
 
 In planning: buy and sell BTC, see trend of btc course, generate BTC chart view.
