@@ -1,8 +1,8 @@
 ### Telegram BTC bot Intro
 
-A simple Telegram bot to track, buy and alert the <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/bitcoin-logo_1.png"  alt="Bitcoin" /> prices easily. You can run it on any masine. Easy to set up commads and more!
+A simple Telegram bot to track, buy and alert the <img src="https://cdn.cdnlogo.com/logos/b/25/bitcoin.svg" style="width:50px; height:25px;"/>prices easily. You can run it on any masine. Easy to set up commads and more!
 
-Buy me a cofee: 
+Buy me a cofee: https://www.buymeacoffee.com/lxnnard
 
 ## Commands
 
