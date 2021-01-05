@@ -2,6 +2,8 @@
 
 A simple Telegram bot to track, buy and alert the BTC prices easily. You can run it on any masine. Easy to set up commads and more! It was made by me using <a href="https://www.python.org">Python</a>, <a href="https://www.telethon.dev"> Telethon</a> and a lot of love.
 
+⚠️ The bot is not totally accurate if any values change or coinbase has a error. Please do not change the code, otherwise you are able to let your Bot/Telegram Account and the Coinbase API crash! ⚠️
+
 ## Commands
 
 `/help`- Get the help menu displayed with all commands.
