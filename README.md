@@ -1,4 +1,4 @@
-### Telegram BTC bot Intro
+# Telegram BTC bot
 
 A simple Telegram bot to track, buy and alert the BTC prices easily. You can run it on any masine. Easy to set up commads and more! It was made by me using <a href="https://www.python.org">Python</a>, <a href="https://www.telethon.dev"> Telethon</a> and a lot of love.
 
