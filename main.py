@@ -81,7 +81,7 @@ async def get_btc_wallet(event):
     primary_account = coinbase_client.get_primary_account()
     btc_adress = primary_account.create_address()
 
-    await client.send_message(event.chat_id, f'**BTC Wallet**\n\nYour Wallet for Bitcoin on coinbase.com!\n\n**Wallet:** \n{btc_adress}.')
+    await client.send_message(event.chat_id, f'**BTC Wallet**\n\nYour Wallet for Bitcoin on coinbase.com!\n\n**Wallet:** \n{btc_adress["address"]}.')
 
 # Run telethon
 
