@@ -76,3 +76,4 @@ async def get_btc_price(event):
 
 with client:
     client.run_until_disconnected()
+
