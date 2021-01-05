@@ -80,7 +80,7 @@ To setup coinbase commands to do this features: buy, sell, trade, wallet access 
 
 1. Generate a API_KEY and API_SECRET on the Coinbase API_Dashboard. To do it, just open the <a href="https://www.coinbase.com/settings/api">Coinbase API-Dashboard</a> and login. Then click "create API-Key" like shown on the Screenshot below (ibb.com link).
 
-<a href="https://ibb.co/9srwyFw"><img src="https://i.ibb.co/9srwyFw/Screenshot-2021-01-05-193415.png" alt="Screenshot-2021-01-05-193415" border="0"></a>
+      <a href="https://ibb.co/9srwyFw"><img src="https://i.ibb.co/9srwyFw/Screenshot-2021-01-05-193415.png" alt="Screenshot-2021-01-05-193415" border="0"></a>
 
 ## Contact
 
