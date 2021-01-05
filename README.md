@@ -1,4 +1,6 @@
-### Telegram BTC bot
+### Telegram BTC bot Intro
+
+BLAH BLAH BLAH
 
 ## Installation
 
@@ -55,3 +57,14 @@ If you want to host the bot on a 24/7 server you are hosting, please run theese 
 `sudo python main.py` - Run the bot.
 
 #### After you run the script you will need to enter your phone number and the code telegram will send you. After you did this you can message and start the bot you just created. Congratulations 🥳. You will find the bot like every normal user by searching it in the searchbar or clikc the link in the BotFather message.
+
+## Errors/Bugs
+
+If you entered the values wrong or changed the code, please retry the creation and re-clone the Code how i mentioned it before. If this does not help please contact me or create an issue using this github repository.
+
+## Contact
+
+You can conatct me on different ways listed below. Make sure to don't spam or send not allowed content, otherwise it will reullt a block.
+
+- Telegram: t.me/lxnnard
+- Discord: lxnnard#9580
