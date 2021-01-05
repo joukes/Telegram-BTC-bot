@@ -1,6 +1,16 @@
 ### Telegram BTC bot Intro
 
-BLAH BLAH BLAH
+A simple Telegram bot to track, buy and alert the <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/bitcoin-logo_1.png"  alt="Bitcoin" /> prices easily. You can run it on any masine. Easy to set up commads and more!
+
+Buy me a cofee: 
+
+## Commands
+
+/help - Get the help menu displayed with all commands.
+/get_btc_price - See the latest BTC Price in Euro.
+/set_btc_alert - Set a alert to get notified if BTC hits a defined value.
+
+In planning: buy and sell BTC, see trend of btc course, generate BTC chart view.
 
 ## Installation
 
