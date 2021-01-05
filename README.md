@@ -32,12 +32,12 @@ pip install -r requirements.txt
 
 #### If you have any questions or the app creation fails, please watch the Video Tutorial.
 
-⚠️ After the setup store both values secure. If a other person gets the credentials, the person will be able to manage your Telegram account! ⚠️
+⚠️ Please store both values secure. If a other person gets the credentials, the person will be able to manage your Telegram account! ⚠️
 
 ## Setup and run the bot
 
 #### Ater you inserted all credentials in the right way, make sure to run the script. For this open a command prompt in your foler and run the following commands.
 
-`python main.py`- On windows
-`sudo python main.py` - On Linux
+`python main.py`- On windows running PCs/Servers 
+`sudo python main.py` - On Linux runnin Servers 
 
