@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ### 3. Create a Telegrm Bot using <a href="t.me/BotFather">BotFather</a> on Telegram 
 
-# Use the Stesp below to create the bot and it's token using the <a href="t.me/BotFather"> @BotFather</a> telegram account.
+#### Use the Stesp below to create the bot and it's token using the <a href="t.me/BotFather"> @BotFather</a> telegram account.
 
 - Open a new chat with <a href="t.me/BotFather">BotFather</a> and click "start".
 - Send the command: `/newbot` and follow all instructions from BotFather
