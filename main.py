@@ -1,18 +1,22 @@
+# IMPORTINGS
+
 import json
 import logging
 import multiprocessing
 import time
 from pathlib import Path
 from datetime import datetime
-
 import requests
 from telethon import TelegramClient, events
+
+# ENABLE LOGGING
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-path = Path('credentials.txt')
+# READING CREDENTIALS
 
+path = Path('credentials.txt')
 with path.open() as f: 
     apiid = next(f)
     apihash = next(f)
@@ -22,8 +26,11 @@ api_id = ''.join(apiid).rstrip()
 api_hash = ''.join(apihash).rstrip()
 token_real = ''.join(token)
 
+# DEFINING TELETHON-CLIENT
+
 client = TelegramClient(None, api_id, api_hash).start(bot_token=token_real)
 
+# POWER THE BOT
 
 @client.on(events.NewMessage(pattern=r'(?i)\/help'))
 async def help(event):
@@ -72,7 +79,7 @@ async def get_btc_price(event):
     await client.send_message(event.chat_id, f'**Bitcoin Price**\n\n**Currency**: Euro\n**Price/BTC**: {price_after}\n\nLive chart: https://de.tradingview.com/symbols/BTCEUR/')
 
 
-# Run telethon
+# RUN TELETHON 24/7
 
 with client:
     client.run_until_disconnected()
