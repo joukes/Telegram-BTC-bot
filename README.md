@@ -12,7 +12,7 @@ A simple Telegram bot to track, buy and alert the BTC prices easily. You can run
 
 `/set_btc_alert`- Set a alert to get notified if BTC hits a defined value.
 
-In planning: buy and sell BTC, see trend of btc course, generate BTC chart view.
+`/get_btc_adress`- See your BTC-Wallet Adress (For setup see more setup).
 
 ## Installation
 
@@ -73,6 +73,14 @@ If you want to host the bot on a 24/7 server you are hosting, please run theese 
 ## Errors/Bugs
 
 If you entered the values wrong or changed the code, please retry the creation and re-clone the Code how i mentioned it before. If this does not help please contact me or create an issue using this github repository.
+
+## More setups
+
+To setup coinbase commands to do this features: buy, sell, trade, wallet access you will need to some more setups to make the bot run.
+
+1. Generate a API_KEY and API_SECRET on the Coinbase API_Dashboard. To do it, just open the <a href="https://www.coinbase.com/settings/api">Coinbase API-Dashboard</a> and login. Then click "create API-Key".
+
+<a href="https://ibb.co/9srwyFw"><img src="https://i.ibb.co/TmgKPVK/Screenshot-2021-01-05-193415.png" alt="Screenshot-2021-01-05-193415" border="0"></a>
 
 ## Contact
 
