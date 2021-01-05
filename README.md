@@ -7,3 +7,9 @@
 ```sh
 git clone https://github.com/joukes/Telegram-BTC-bot.git
 ```
+
+2. Install all needed requirements
+
+```sh
+pip install -r requirements.txt
+```
