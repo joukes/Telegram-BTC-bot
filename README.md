@@ -1,6 +1,6 @@
 ### Telegram BTC bot Intro
 
-A simple Telegram bot to track, buy and alert the BTC prices easily. You can run it on any masine. Easy to set up commads and more! It was made by me using <a href="python.org">Python</a>, <a href="telethon.dev"> Telethon</a> and a lot of love.
+A simple Telegram bot to track, buy and alert the BTC prices easily. You can run it on any masine. Easy to set up commads and more! It was made by me using <a href="www.python.org">Python</a>, <a href="www.telethon.dev"> Telethon</a> and a lot of love.
 
 Buy me a cofee: https://www.buymeacoffee.com/lxnnard
 
@@ -25,11 +25,11 @@ git clone https://github.com/joukes/Telegram-BTC-bot.git
 pip install -r requirements.txt
 ```
 
-## Create a Telegram Bot using <a href="t.me/BotFather">BotFather</a> on Telegram and get other credentials
+## Create a Telegram Bot using <a href="www.t.me/BotFather">BotFather</a> on Telegram and get other credentials
 
-### 1. Create the bot and it's token using the <a href="t.me/BotFather"> @BotFather</a> telegram account.
+### 1. Create the bot and it's token using the <a href="www.t.me/BotFather"> @BotFather</a> telegram account.
 
-- Open a new chat with <a href="t.me/BotFather">BotFather</a> and click "start".
+- Open a new chat with <a href="www.t.me/BotFather">BotFather</a> and click "start".
 - Send the command: `/newbot` and follow all instructions from BotFather.
 
 #### If you have any questions or the Bot creation fails, please watch the Video Tutorial.
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ### 2. Get your API_ID and API_HASH from Telegram
 
-- Open the <a href="my.telegram.org/"> Telegram Developer dashboard</a> and enter your phone number.
+- Open the <a href="www.my.telegram.org/"> Telegram Developer dashboard</a> and enter your phone number.
 - After the official telegram account sent a verification Code to your Account verify the web login.
 - Create a new "App" with random credentials and store the API_ID and API_HASH to the <a href="https://github.com/joukes/Telegram-BTC-bot/blob/main/credentials.txt"> credentials file</a> (Replace them with your values!).
 
