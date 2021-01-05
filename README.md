@@ -78,9 +78,12 @@ If you entered the values wrong or changed the code, please retry the creation a
 
 To setup coinbase commands to do this features: buy, sell, trade, wallet access you will need to some more setups to make the bot run.
 
-1. Generate a API_KEY and API_SECRET on the Coinbase API_Dashboard. To do it, just open the <a href="https://www.coinbase.com/settings/api">Coinbase API-Dashboard</a> and login. Then click "create API-Key" like shown on the Screenshot below (ibb.com link).
+1. Generate a API_KEY and API_SECRET on the Coinbase API_Dashboard. To do it, just open the <a href="https://www.coinbase.com/settings/api">Coinbase API-Dashboard</a> and login. Then click "create API-Key" like shown on the Screenshot below (ibb.com link). This will give you the values for the api_key and api_secret. You can add theese also to your credentials.txt file.
+
 
       <a href="https://ibb.co/9srwyFw"><img src="https://i.ibb.co/9srwyFw/Screenshot-2021-01-05-193415.png" alt="Screenshot-2021-01-05-193415" border="0"></a>
+
+2. After your added the credentials restart the Bot like usual.
 
 ## Contact
 
