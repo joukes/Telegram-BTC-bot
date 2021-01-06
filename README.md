@@ -12,7 +12,7 @@ A simple Telegram bot to track, buy and alert the BTC prices easily. You can run
 
 `/set_btc_alert`- Set a alert to get notified if BTC hits a defined value.
 
-`/get_btc_Wallet`- See your BTC-Wallet Adress (For setup see <a href="more setup).
+`/get_btc_Wallet`- See your BTC-Wallet Adress (For setup see <a href="more setup">).
 
 ## Installation
 
